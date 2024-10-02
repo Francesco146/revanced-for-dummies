@@ -1,6 +1,6 @@
 # ReVanced Patcher Framework Docs for New Developers
 
-Welcome to my **ReVanced Patcher Framework Documentation**! This repository is designed to provide comprehensive documentation and guidance to help new developers get started with the ReVanced Patcher framework. Whether you're just getting started or looking to dive deeper into patching Android applications, this guide is for you.
+This repository is designed to provide comprehensive documentation and guidance to help new developers get started with the ReVanced Patcher framework.
 
 ## Table of Contents
 
